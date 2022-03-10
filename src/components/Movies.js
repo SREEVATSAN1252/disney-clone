@@ -9,19 +9,19 @@ function Movies() {
    <Content>
 
      <Wrap>
-      <img src="../images/spiderman.jpg"/> 
+      <img src="https://amc-theatres-res.cloudinary.com/image/upload/f_auto,fl_lossy,h_465,q_auto,w_310/v1644184331/amc-cdn/production/2/movies/45900/45869/PosterDynamic/134454.jpg"/> 
      </Wrap>
      <Wrap>
-      <img src="../images/spiderman.jpg"/> 
+      <img src="https://amc-theatres-res.cloudinary.com/image/upload/f_auto,fl_lossy,h_465,q_auto,w_310/v1644184331/amc-cdn/production/2/movies/45900/45869/PosterDynamic/134454.jpg"/> 
      </Wrap>
      <Wrap>
-      <img src="../images/spiderman.jpg"/> 
+      <img src="https://amc-theatres-res.cloudinary.com/image/upload/f_auto,fl_lossy,h_465,q_auto,w_310/v1644184331/amc-cdn/production/2/movies/45900/45869/PosterDynamic/134454.jpg"/> 
      </Wrap>
      <Wrap>
-      <img src="../images/spiderman.jpg"/> 
+      <img src="https://amc-theatres-res.cloudinary.com/image/upload/f_auto,fl_lossy,h_465,q_auto,w_310/v1644184331/amc-cdn/production/2/movies/45900/45869/PosterDynamic/134454.jpg"/> 
      </Wrap>
      <Wrap>
-      <img src="../images/spiderman.jpg"/> 
+      <img src="https://amc-theatres-res.cloudinary.com/image/upload/f_auto,fl_lossy,h_465,q_auto,w_310/v1644184331/amc-cdn/production/2/movies/45900/45869/PosterDynamic/134454.jpg"/> 
      </Wrap>
      <Wrap>
       <img src="../images/spiderman.jpg"/> 
