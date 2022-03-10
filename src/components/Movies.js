@@ -9,28 +9,28 @@ function Movies() {
    <Content>
 
      <Wrap>
-      <img src="/images/spiderman.jpg"/> 
+      <img src="../images/spiderman.jpg"/> 
      </Wrap>
      <Wrap>
-      <img src="/images/spiderman.jpg"/> 
+      <img src="../images/spiderman.jpg"/> 
      </Wrap>
      <Wrap>
-      <img src="/images/spiderman.jpg"/> 
+      <img src="../images/spiderman.jpg"/> 
      </Wrap>
      <Wrap>
-      <img src="/images/spiderman.jpg"/> 
+      <img src="../images/spiderman.jpg"/> 
      </Wrap>
      <Wrap>
-      <img src="/images/spiderman.jpg"/> 
+      <img src="../images/spiderman.jpg"/> 
      </Wrap>
      <Wrap>
-      <img src="/images/spiderman.jpg"/> 
+      <img src="../images/spiderman.jpg"/> 
      </Wrap>
      <Wrap>
-      <img src="/images/spiderman.jpg"/> 
+      <img src="../images/spiderman.jpg"/> 
      </Wrap>
      <Wrap>
-      <img src="/images/spiderman.jpg"/> 
+      <img src="../images/spiderman.jpg"/> 
      </Wrap>
      
      

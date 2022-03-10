@@ -19,7 +19,7 @@ overflow-x:hidden;
 padding: 0 calc(3.5vw + 5px);
 position:relative;
 &:before{
-  background: url("/images/home-background.png") center center /cover 
+  background: url("../images/home-background.png") center center /cover 
   no-repeat fixed;
 content:"";
 position:absolute;
